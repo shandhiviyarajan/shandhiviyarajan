@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shandhiviyarajan
 - 👀 I’m interested in UI, UX & JS 
-- 🌱 I’m currently learning Python A Ai
+- 🌱 I’m currently learning Python & Ai
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
